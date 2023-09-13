@@ -961,6 +961,8 @@ section {
   right: -5px;
   position: relative;
   top: 10px;
+  top:125px;
+  right :-2px;
 }
 
 .testimonials .testimonial-item p {
